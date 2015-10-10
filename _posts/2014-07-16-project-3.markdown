@@ -1,5 +1,5 @@
 ---
-title: Golden
+title: Junior Statesment of America
 subtitle: Website Design
 layout: default
 modal-id: 3
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: The purpose of the JSA is to help high school students acquire leadership skills and the knowledge necessary to be effective debaters and civic participants. JSA is the largest completely student-run organization in the United States with over 10,000 members. It was because of my experience in JSA that I developed the necessary presentation and public speaking skills that I now have today.
 
 ---

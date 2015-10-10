@@ -1,6 +1,6 @@
 ---
-title: Escape
-subtitle: Website Design
+title: BCA Chinacare
+subtitle: President
 layout: default
 modal-id: 2
 date: 2014-07-17
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Coming into BCA as a freshmen, I had no idea what clubs to join. My first club was BCA Chinacare and at the time I really didn't know what to expect out of the club. After a tremondous amount of hard work and dedication, I was promoted to the position of Vice-President during my Junior Year. It wasn'y until my senior year that I finally earned the coveted position of President. The mission of the China Care Foundation is to give special needs Chinese orphans the opportunity for a better life and to empower youth through direct humanitarian service. By providing extensive medical, social and educational programs devoted to children, China Care makes a lasting contribution to our shared future.
 
 ---

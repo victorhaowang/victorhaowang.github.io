@@ -1,6 +1,6 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Basketball 4 Kids
+subtitle: President
 layout: default
 modal-id: 1
 date: 2014-07-18
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: Basketball 4 Kids is a non-profit organization that I founded at BCA to help raise money to spread the game of basketball throughout the entire world. We donate all the money earned through candy sales, bake sales, and fundraisers to NBA Cares. NBA Cares is also a non-profit organization that Basketball 4 Kids works with to help spread the game of basketball. Last year, we made over $600 and organized a basketball tournament here at BCA. We also hold fantasy basketball drafts and even organized a field trip to the NBA Hall of Fame which is located in Springfield, Massachusetts. 
 
 ---
