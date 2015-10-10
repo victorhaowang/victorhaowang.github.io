@@ -1,6 +1,6 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: BCA Makerspace
+subtitle: 
 layout: default
 modal-id: 6
 date: 2014-07-15
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: BCA Makerspace is a Wednesday Club that is run during the last hour of Wednesday's every week. In the this, students have access to the entire BCA Makerspace and are allowed to complete projects that they desire to. During my time in that club, I learned how to use the laser cutter and worked on my 3lb Battlebot.
 
 ---
